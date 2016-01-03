@@ -1,0 +1,44 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'Arial';
+}
+
+*, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
+.clearfix:before, .clearfix:after { content: ''; display: table; }
+.clearfix:after { clear: both; }
+
+body {
+	background: rgba(119,79,56,0.8);
+	color: #383a3c;
+	font-weight: 400;
+	font-size: 1em;
+	line-height: 1.25;
+	font-family: 'Raleway', Calibri, Arial, sans-serif;
+}
+
+a, button {
+	outline: none;
+}
+
+a {
+	color: #83AF9B;
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: #C5E0DC;
+}
+
+section {
+	padding: 1em;
+	text-align: center;
+}
+
+p.ref {
+
+	font-size: 0.8em;
+	text-align: center;
+	padding: 0.3em 0.3em;
+}
+
