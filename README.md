@@ -1,7 +1,7 @@
 Little Fauna Friends Landing page
 =========
 
-URL: http://www.littlefaunafriends.com
+URL: http://www.littlefaunafriends.xyz
 
 Inspired by [this article on Codrops](http://tympanus.net/codrops/?p=20153).
 
